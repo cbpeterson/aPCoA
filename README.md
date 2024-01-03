@@ -1,6 +1,10 @@
 # aPCoA
 # aPCoA: Covariate Adjusted Principal Coordinates Analysis
 
+### Author: Yushu Shi
+
+- **Reference**: Shi Y, Zhang L, Do K, Peterson CB†, Jenq RR†. (2020) aPCoA: covariate adjusted principal coordinates analysis. *Bioinformatics*. 36(13): 4099-4101. †Co-senior authors
+
 In fields such as ecology, microbiology, and genomics, non-Euclidean distances are widely applied to describe pairwise dissimilarity between samples. Given these pairwise distances, principal coordinates analysis (PCoA) is commonly used to construct a visualization of the data. However, confounding covariates can make patterns related to the scientific question of interest difficult to observe. We provide 'aPCoA' as an easy-to-use tool to improve data visualization in this context, enabling enhanced presentation of the effects of interest.
 ## Main Function
 ```
